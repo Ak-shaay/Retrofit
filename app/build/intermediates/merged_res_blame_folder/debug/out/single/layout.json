@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.retrofit.app-mergeDebugResources-25:/layout/activity_main.xml",
+        "source": "com.example.retrofit.app-main-28:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.retrofit.app-mergeDebugResources-25:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.retrofit.app-main-28:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.retrofit.app-mergeDebugResources-25:\\layout\\item_todo.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.retrofit.app-main-28:\\layout\\item_todo.xml"
+    }
+]
